@@ -1,0 +1,2 @@
+Array:
+Listado de objetos agrupados entre corchetes para realizar un seguimiento de varias cosas.

@@ -1,0 +1,12 @@
+Variables:
+Asignar valor a algo para utilizar más tarde.
+Strings:
+Son caracteres alfasbeticos o numericos entre comillas dobles o simples.
+Funciones:
+Son objetos para agrupar varios procesos dentro de uno que se pueden invocar cuándo se requieran.
+	Argumento: son los procesos que se le da a una función y para qué van a ser utilizadas.
+	Return: es lo que nos develve la función.
+Declaraciónes:
+Son condiciones para pedrir que se nos de un return de la función generando un filtro entre más de una variable.
+Valores booleanos:
+Nos devuelve true or false; encendido o apagado; defined or undefined; etc.

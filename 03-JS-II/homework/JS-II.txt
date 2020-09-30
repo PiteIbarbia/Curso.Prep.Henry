@@ -1,0 +1,8 @@
+For:
+Se utiliza para declarar variables que se repetiran en bucle y se utuliza una expresión condicional para declarar la falsedad de esta condicion para frenar así el bulce. Por últimi esta esta formada por una incrementación (++) de nuestra variable y todas separadas por ;.
+&& o función "Y":
+Se utiliza para evaluar 2 expresiones y devolvera verdadero en caso que todas sean verdaderas, si hay una o más que no cumpla las ccondisiones return false.
+|| o función "O":
+Se utiliza para evaluar 2  expresiones y devolvera verdadero en caso que todas o una sea true; en caso de que todas sean falsa todas son falsas.
+! o función contrario/opuesta/distinto:
+Se utiliza para mostrar el resultado opuesto o distinto de una función o variable.
