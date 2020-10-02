@@ -1,0 +1,11 @@
+Objetos:
+Un objeto contiene mucha información sobre una cosa. Se escriben entre {}.
+Porpiedades:
+Los objetos utilizan clave:valor dónde clave es el indicador del valor que vamos a gurdar. y estos van separados por ",".
+Métodos:
+
+Bucle 'for... in':
+
+Notación de puntos vs notación de corchete:
+Notación de puntos podemos llamar al nombre del objeto, un punto y el nombre de la clave.
+Mientras que La notación de corchetes es como llamar a un elemento en una matriz, aunque con corchetes debemos usar una cadena o número, o una variable que apunte a una cadena o número.
